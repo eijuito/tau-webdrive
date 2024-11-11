@@ -75,7 +75,6 @@ public class BaseTests {
                 ioException.printStackTrace();
             }
             System.out.println("Screenshot taken: " + screenshot.getAbsolutePath());
-            }
     }
 
     public WindowManager getWindowManager() {
